@@ -1,11 +1,4 @@
-# Data
-/data/
-# Allow small example data and documentation
-!data/README.md
-!data/*.csv
-!data/*.txt
-!data/*.tsv
-!data/*.xlsx
+
 # Mac OS-specific storage files
 .DS_Store
 
