@@ -11,6 +11,7 @@ This repository contains the notebook(s), data, and dependencies for the **MP1 R
 Open **VS Code**, then in the built-in terminal run:
 
 git clone https://github.com/JishanAhmed2019/MP1_Regression.git
+
 cd MP1_Regression
 
 ---
